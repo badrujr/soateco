@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:3306
--- Generation Time: Oct 23, 2019 at 02:28 PM
+-- Generation Time: Oct 23, 2019 at 02:57 PM
 -- Server version: 5.7.27-0ubuntu0.18.04.1
 -- PHP Version: 5.6.37-1+ubuntu16.04.1+deb.sury.org+1
 
@@ -31,7 +31,8 @@ CREATE TABLE `beststudent` (
   `name` varchar(50) NOT NULL,
   `course` varchar(50) NOT NULL,
   `position` varchar(50) NOT NULL,
-  `picture` varchar(200) NOT NULL
+  `picture` varchar(200) NOT NULL,
+  `created_at` datetime NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 -- --------------------------------------------------------
@@ -45,7 +46,8 @@ CREATE TABLE `events` (
   `name` varchar(50) NOT NULL,
   `description` text NOT NULL,
   `picture` varchar(100) NOT NULL,
-  `address` varchar(50) NOT NULL
+  `address` varchar(50) NOT NULL,
+  `created_at` datetime NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 -- --------------------------------------------------------
@@ -60,7 +62,8 @@ CREATE TABLE `leaders` (
   `position` varchar(50) NOT NULL,
   `picture` varchar(100) NOT NULL,
   `password` varchar(100) NOT NULL,
-  `status` varchar(20) NOT NULL
+  `status` varchar(20) NOT NULL,
+  `created_at` datetime NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 -- --------------------------------------------------------
@@ -75,7 +78,8 @@ CREATE TABLE `news` (
   `description` text NOT NULL,
   `image` varchar(100) NOT NULL,
   `label` varchar(50) NOT NULL,
-  `link` varchar(50) NOT NULL
+  `link` varchar(50) NOT NULL,
+  `created_at` datetime NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 -- --------------------------------------------------------
@@ -89,7 +93,8 @@ CREATE TABLE `projects` (
   `image` varchar(100) NOT NULL,
   `description` text NOT NULL,
   `tittle` varchar(50) NOT NULL,
-  `link` varchar(50) NOT NULL
+  `link` varchar(50) NOT NULL,
+  `created_at` int(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 -- --------------------------------------------------------

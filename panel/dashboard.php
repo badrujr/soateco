@@ -38,91 +38,12 @@
         TOP BAR CONTENT & NOTIFICATIONS
         *********************************************************************************************************************************************************** -->
     <!--header start-->
-    <header class="header black-bg">
-      <div class="sidebar-toggle-box">
-        <div class="fa fa-bars tooltips" data-placement="right" data-original-title="Toggle Navigation"></div>
-      </div>
-      <!--logo start-->
-      <a href="dashboard.php" class="logo"><b>SOAT<span>ECO</span></b></a>
-      <div class="top-menu">
-        <ul class="nav pull-right top-menu">
-          <li><a class="logout" href="logout.php">Logout</a></li>
-        </ul>
-      </div>
-    </header>
+<?php include 'includes/header.php'; ?>
     <!--header end-->
     <!-- **********************************************************************************************************************************************************
         MAIN SIDEBAR MENU
         *********************************************************************************************************************************************************** -->
-    <!--sidebar start-->
-    <aside>
-      <div id="sidebar" class="nav-collapse ">
-        <!-- sidebar menu start-->
-        <ul class="sidebar-menu" id="nav-accordion">
-          <p class="centered"><a href="profile.php"><img src="img/ui-sam.png" class="img-circle" width="80"></a></p>
-          <h5 class="centered">Khamis Badru</h5>
-          <li class="mt">
-            <a class="active" href="dashboard.php">
-              <i class="fa fa-desktop"></i>
-              <span>Dashboard</span>
-              </a>
-          </li>
-          <li class="sub-menu">
-            <a href="javascript:;">
-              <i class="fa fa-user"></i>
-              <span>User Authentications</span>
-              </a>
-            <ul class="sub">
-              <li><a href="general.html">Add Leader</a></li>
-              <li><a href="buttons.html">Manage leader</a></li>
-              <li><a href="panels.html">Upload leader</a></li>
-            </ul>
-          </li>
-          <li class="sub-menu">
-            <a href="javascript:;">
-              <i class="fa fa-bullhorn"></i>
-              <span>Events & Announcements</span>
-              </a>
-            <ul class="sub">
-              <li><a href="grids.html">Upcoming Events</a></li>
-              <li><a href="calendar.html">Latest News</a></li>
-              <li><a href="gallery.html">Projects</a></li>
-              <li><a href="todo_list.html">Videos</a></li>
-            </ul>
-          </li>
-          <li class="sub-menu">
-            <a href="javascript:;">
-              <i class="fa fa-cogs"></i>
-              <span>Components</span>
-              </a>
-            <ul class="sub">
-              <li><a href="lock_screen.php">Lock Screen</a></li>
-              <li><a href="profile.php">Profile</a></li>
-            </ul>
-          </li>
-          <li class="sub-menu">
-            <a href="javascript:;">
-              <i class="fa fa-book"></i>
-              <span>Constitution</span>
-              </a>
-            <ul class="sub">
-              <li><a href="form_component.html">upload constitution</a></li>
-            </ul>
-          </li>
-          <li class="sub-menu">
-            <a href="javascript:;">
-              <i class="fa fa-eye"></i>
-              <span>Logs</span>
-              </a>
-            <ul class="sub">
-              <li><a href="basic_table.html">Who loggedIn</a></li>
-            </ul>
-          </li>
-        </ul>
-        <!-- sidebar menu end-->
-      </div>
-    </aside>
-    <!--sidebar end-->
+  <?php include 'includes/sidebar.php'; ?>
     <!-- **********************************************************************************************************************************************************
         MAIN CONTENT
         *********************************************************************************************************************************************************** -->
@@ -551,16 +472,7 @@
     </section>
     <!--main content end-->
     <!--footer start-->
-    <footer class="site-footer">
-      <div class="text-center">
-        <p>
-          &copy; Copyrights <strong>SOATECO</strong>. All Rights Reserved
-        </p>
-        <a href="#" class="go-top">
-          <i class="fa fa-angle-up"></i>
-          </a>
-      </div>
-    </footer>
+   <?php include 'includes/footer.php'; ?>
     <!--footer end-->
   </section>
   <!-- js placed at the end of the document so the pages load faster -->
