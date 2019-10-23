@@ -65,7 +65,7 @@
 						<div class="single-team">
 							<img src="images/team/team4.jpg" alt="#">
 							<div class="team-hover">
-								<h4 class="name">Sharifa<span class="work">Secretary General</span></h4>
+								<h4 class="name">Francis Kissope<span class="work">SOATECO Speaker</span></h4>
 								<p>cumque nihil impedit quo minusid quod maxime placeat facere possimus</p>
 								<ul class="social">
 									<li><a href="#"><i class="fa fa-facebook"></i></a></li>

@@ -87,13 +87,13 @@
 											<li><a href="#"><i class="fa fa-twitter"></i></a></li>
 											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
 											<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-											<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+											<li><a href="#"><i class="fa fa-instagram"></i></a></li>
 											<li><a href="#"><i class="fa fa-youtube"></i></a></li>
 										</ul>
 										<!-- End Social -->
 										<!-- Copyright -->
 										<div class="copyright">
-											<p>© Copyright 2018 <a href="#">SOATECO</a>. All Rights Reserved</p>
+											<p>© Copyright 2019 <a href="#">SOATECO</a>. All Rights Reserved</p>
 										</div>
 										<!--/ End Copyright -->
 									</div>
