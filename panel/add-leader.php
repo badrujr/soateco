@@ -63,8 +63,7 @@
                 <div class="form-group">
                   <label class="control-label col-md-3">FullName</label>
                   <div class="col-md-3 col-xs-11">
-                    <input class="form-control form-control-inline input-medium default-date-picker" size="16" type="text" value="">
-                    <span class="help-block">Select date</span>
+                    <input class="form-control form-control-inline input-medium" size="16" type="text" value="">
                   </div>
                 </div>
                 <div class="form-group">

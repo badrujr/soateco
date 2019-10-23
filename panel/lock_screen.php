@@ -7,10 +7,10 @@
   <meta name="description" content="">
   <meta name="author" content="Dashboard">
   <meta name="keyword" content="Dashboard, Bootstrap, Admin, Template, Theme, Responsive, Fluid, Retina">
-  <title>Dashio - Bootstrap Admin Template</title>
+  <title>SOATECO - Lockscreen</title>
 
   <!-- Favicons -->
-  <link href="img/favicon.png" rel="icon">
+  <link href="img/favicon.PNG" rel="icon">
   <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Bootstrap core CSS -->
@@ -48,7 +48,7 @@
                 <h4 class="modal-title">Welcome Back</h4>
               </div>
               <div class="modal-body">
-                <p class="centered"><img class="img-circle" width="80" src="img/ui-sam.jpg"></p>
+                <p class="centered"><img class="img-circle" width="80" src="img/ui-sam.png"></p>
                 <input type="password" name="password" placeholder="Password" autocomplete="off" class="form-control placeholder-no-fix">
               </div>
               <div class="modal-footer centered">

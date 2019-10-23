@@ -8,11 +8,11 @@
 							<!-- About -->
 							<div class="single-widget about">
 								<div class="logo"><a href="#"><img src="images/logo2.png" alt="#"></a></div>
-								<p>Vivamus volutpat eros pulvinar velit laoreet, sit amet egestas erat dignissim. Lorem ipsum dolor sit amet, consectetur</p>
+								<p>Students Organization Of The Arusha Technical College - SOATECO, Official Website.</p>
 								<ul class="list">
-									<li><i class="fa fa-phone"></i>Phone: +123 456-7890 </li>
-									<li><i class="fa fa-envelope"></i>Email: <a href="mailto:info@youremail.com">Info@youremail.com</a></li>
-									<li><i class="fa fa-map-o"></i>Address: 211 Ronad, California, Us</li>
+									<li><i class="fa fa-phone"></i>Phone: +255 717 22 5637 </li>
+									<li><i class="fa fa-envelope"></i>Email: <a href="mailto:info@youremail.com">officialsoateco@gmail.com</a></li>
+									<li><i class="fa fa-map-o"></i>Address: P.O.BOX 296, Arusha, Tanzania</li>
 								</ul>
 							</div>
 							<!--/ End About -->
@@ -28,6 +28,9 @@
 									<li><a href="#"><i class="fa fa-angle-right"></i>Events</a></li>
 									<li><a href="#"><i class="fa fa-angle-right"></i>Blogs</a></li>
 									<li><a href="#"><i class="fa fa-angle-right"></i>Contact</a></li>
+									<li><a href="#"><i class="fa fa-angle-right"></i>ATC</a></li>
+									<li><a href="#"><i class="fa fa-angle-right"></i>NACTE</a></li>
+									<li><a href="#"><i class="fa fa-angle-right"></i>HELBS</a></li>
 								</ul>
 							</div>
 							<!--/ End Useful Links -->

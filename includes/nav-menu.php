@@ -33,6 +33,12 @@
 														<li><a href="teacher-single.html">Teacher Single</a></li>
 													</ul>
 												</li>
+													<li><a href="#">E-voting System<i class="fa fa-angle-right"></i></a>
+													<ul class="dropdown submenu">
+														<li><a href="">General Election</a></li>
+														<li><a href="">Mr & Miss ATC</a></li>
+													</ul>
+												</li>
 												<li><a href="testimonials.html">Testimonials</a></li>
 												<li><a href="faqs.html">Faqs</a></li>
 												<li><a href="404.html">404 Page</a></li>
